@@ -28,7 +28,7 @@ import {
 } from "recharts";
 import "./style.css";
 
-const API = "http://127.0.0.1:5000/api";
+const API = "https://smartspend-backend-c9jl.onrender.com/api";
 
 const defaultAnalytics = {
   total: 0,
